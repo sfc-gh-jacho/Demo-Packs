@@ -15,6 +15,7 @@ Landing page for a set of self-contained Snowflake walkthroughs. Each guide ship
 | [Regulatory Reporting with Time Travel](https://sfc-gh-jacho.github.io/sfguide-regulatory-audit-time-travel/) | Time Travel, clones, streams, access history, UNDROP | [sfguide-regulatory-audit-time-travel](https://github.com/sfc-gh-jacho/sfguide-regulatory-audit-time-travel) |
 | [Trade Surveillance in Snowflake](https://sfc-gh-jacho.github.io/sfguide-trade-surveillance/) | MATCH_RECOGNIZE, window functions, Dynamic Tables, masking | [sfguide-trade-surveillance](https://github.com/sfc-gh-jacho/sfguide-trade-surveillance) |
 | [AML Transaction Monitoring](https://sfc-gh-jacho.github.io/sfguide-aml-transaction-monitoring/) | Typology rules, risk scoring, Dynamic Tables, row access, Cortex AI_COMPLETE | [sfguide-aml-transaction-monitoring](https://github.com/sfc-gh-jacho/sfguide-aml-transaction-monitoring) |
+| [Client Data Entitlements](https://sfc-gh-jacho.github.io/sfguide-fsi-client-entitlements/) | Mapping-table row access, masking and banding, tag-based masking, aggregation policy | [sfguide-fsi-client-entitlements](https://github.com/sfc-gh-jacho/sfguide-fsi-client-entitlements) |
 
 ## Adding a guide
 
