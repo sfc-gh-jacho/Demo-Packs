@@ -16,6 +16,7 @@ Landing page for a set of self-contained Snowflake walkthroughs. Each guide ship
 | [Trade Surveillance in Snowflake](https://sfc-gh-jacho.github.io/sfguide-trade-surveillance/) | MATCH_RECOGNIZE, window functions, Dynamic Tables, masking | [sfguide-trade-surveillance](https://github.com/sfc-gh-jacho/sfguide-trade-surveillance) |
 | [AML Transaction Monitoring](https://sfc-gh-jacho.github.io/sfguide-aml-transaction-monitoring/) | Typology rules, risk scoring, Dynamic Tables, row access, Cortex AI_COMPLETE | [sfguide-aml-transaction-monitoring](https://github.com/sfc-gh-jacho/sfguide-aml-transaction-monitoring) |
 | [Client Data Entitlements](https://sfc-gh-jacho.github.io/sfguide-fsi-client-entitlements/) | Mapping-table row access, masking and banding, tag-based masking, aggregation policy | [sfguide-fsi-client-entitlements](https://github.com/sfc-gh-jacho/sfguide-fsi-client-entitlements) |
+| [KYC Onboarding Workbench](https://sfc-gh-jacho.github.io/sfguide-kyc-onboarding-workbench/) | Interactive Streamlit app: Cortex AI_EXTRACT and AI_COMPLETE, fuzzy screening, masking; runs in the browser with no account | [sfguide-kyc-onboarding-workbench](https://github.com/sfc-gh-jacho/sfguide-kyc-onboarding-workbench) |
 
 ## Adding a guide
 
