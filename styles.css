@@ -274,4 +274,5 @@ footer { padding: clamp(32px, 5vw, 56px) 0; background: #F9FAFB; border-top: 1px
 .accent-aml { --card-accent: linear-gradient(135deg, #1F9E8A, #157564); }
 .accent-ent { --card-accent: linear-gradient(135deg, #D4A017, #A87C0C); }
 .accent-kyc { --card-accent: linear-gradient(135deg, #6554C0, #3F2E8C); }
+.accent-fraud { --card-accent: linear-gradient(135deg, #DE350B, #A02508); }
 .how-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 20px; }
